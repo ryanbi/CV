@@ -1,0 +1,213 @@
+\documentclass[a4paper,10pt]{article} 
+
+%% Set page margins
+%\usepackage[top=0in, bottom=0.3in, outer=2.7in, inner=0.5in, heightrounded, marginparwidth=2in, marginparsep=0.5in]{geometry}
+\usepackage[top=0in, bottom=1in, left=0.5in, right=0.5in]{geometry}
+
+
+
+%% Symbols
+\usepackage{wasysym}
+\usepackage{ifsym}
+
+%% Margin Notes
+%\usepackage{marginnote}
+
+%%Microtype
+\usepackage[protrusion=true,expansion=true, tracking=true,kerning=true,spacing=true]{microtype}
+
+%% Fonts and spacing stuffs
+\usepackage[scaled=0.92]{helvet}
+\usepackage[sfdefault,condensed]{cabin}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{setspace} \onehalfspacing
+\usepackage{lipsum}
+\usepackage{color}
+
+%% Columns
+\usepackage{array, xcolor}
+\definecolor{lightgray}{gray}{0.8}
+\newcolumntype{L}{p{0.13\textwidth}}
+\newcolumntype{R}{p{0.75\textwidth}}
+\newcommand\VRule{\color{lightgray}\vrule}
+\newcommand\HRule{}
+
+% Supress page numbering
+\pagenumbering{gobble}
+\usepackage{paralist}
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+%Compress
+%\pdfobjcompresslevel=9
+%\pdfcompresslevel=9
+
+
+
+\begin{document}
+
+
+%% BOX
+
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.15in}}
+\vspace{0.10in}
+
+%\marginnote{
+% \begin{tabular}{p{1pt} l}
+%\textifsymbol{19} & \cabin U54/849 George St.\\
+% & Ultimo NSW 2007, Australia\\
+%  \textifsymbol{0} & ryanbi.pratama@gmail.com\\
+%  \phone & +61416878169\\
+%\end{tabular}
+%}[0cm]
+%
+
+\begin{minipage}[c]{0.4\textwidth}
+\Huge \cabincondensed \uppercase{Ryan Pratama}
+\end{minipage}
+\begin{minipage}[c]{0.025\textwidth}
+\textifsymbol{19}\\
+\end{minipage}
+\begin{minipage}[c]{0.275\textwidth}
+ U54/849 George St.\\
+Ultimo NSW 2007, Australia
+\end{minipage}
+\begin{minipage}[c]{0.03\textwidth}
+\textifsymbol{0}\\
+\phone
+\end{minipage}
+\begin{minipage}[c]{0.27\textwidth}
+ ryanbi.pratama@gmail.com\\
+ +61416878169
+\end{minipage}
+
+
+\vspace{0.25in}
+
+
+\begin{tabular}{L!{\VRule}R}
+\uppercase{Education} \HRule & \textbf{\uppercase{The University of New South Wales, Sydney, Australia}} \hfill\small \textit{2013}\\
+ & {Bachelor of Science, Biotechnology (Honours II Div I, 83\%)}\\
+\end{tabular}
+
+
+%\marginnote{
+%\begin{tabular}{L R}
+%\uppercase{Skills} \HRule & \\
+%\end{tabular}\\
+%\hspace{0.2cm} \textbf{Microbiology and Biomolecular}
+%\begin{itemize}
+%\item PCR
+%\item Gel Electrophoresis
+%\item Microbiological techniques
+%\end{itemize}
+%\hspace{0.2cm} \textbf{Chemistry}
+%\begin{itemize}
+%\item PCR
+%\item Gel Electrophoresis
+%\item Microbiological techniques
+%\end{itemize}
+%\hspace{0.2cm} \textbf{Computer and IT}
+%\begin{itemize}
+%\item PCR
+%\item Gel Electrophoresis
+%\item Microbiological techniques
+%\end{itemize}
+%\hspace{0.2cm} \textbf{Bioinformatics}
+%\begin{itemize}
+%\item PCR
+%\item Gel Electrophoresis
+%\item Microbiological techniques
+%\end{itemize}
+%}[0cm]
+
+
+
+\vspace{0.15in}
+
+\begin{tabular}{L!{\VRule}R}
+\uppercase{Experiences} \HRule 
+ & \textbf{\uppercase{Research Assistant} / Antimicrobial Resistance Project} \hfill\small \textit{OCT 2013 - CURRENT}\\
+ & {Department of Microbiology, SEALS Pathology, NSW HEALTH} \\
+ & \begin{itemize}
+\item Maintained and exported 14 years of microbiological data from laboratory information system into a relational database model. Generated data visualisation with several different parameters.
+\item Generated area level and hospital level cumulative antibiograms to monitor antimicrobial resistances according to Australian standard.
+\item Assisted on various data requests for clinicians and researchers.
+\end{itemize}\\
+
+
+& \textbf{\uppercase{Research Student}} \hfill\small \textit{FEB - NOV 2012} \\
+& Neilan Laboratory of Microbial and Molecular Diversity, UNSW\\
+& \begin{itemize}
+\item Generated DNA libraries of cyanobacterial isolates, bioinformatically elucidated cyanobacterial gene clusters and performed heterologous expression of a specific gene cluster in \textit{Escherichia coli}.
+\item Replenishing materials, laboratory instrument and general aspects of laboratory maintenance.
+\item Responsible for various consultancy projects, laboratory database, information systems and website.
+\vspace{-.5cm}
+\end{itemize}
+
+\end{tabular}
+
+
+\vspace{0.15in}
+
+\begin{tabular}{L!{\VRule}R}
+\uppercase{Skills \HRule} & 
+ \textbf{Bioinformatics and Biostatistics} NCBI tools, sequence analysis, primer design, genomic data analysis and comparison, Roche 454 and AB 3730 sequencer, gene mapping and annotations, phylogenetics, various statistical analysis and programs.
+\vspace{0.15in}
+
+
+
+ \textbf{Microbiology, molecular biology, genetic engineering and chemistry}
+  General microbiology media and tests, DNA/RNA extractions and purifications, PCR, RT-PCR, qPCR, electrophoresis, spectrophotometry, cell culture, natural product extractions, compound separation and purification, organic chemistry techniques, analytical chemistry (NMR, infrared spectroscopy, LCMS), and chromatography.
+  \vspace{0.15in}
+  
+ \textbf{Computers, IT, and Networking} \hfill \footnotesize{\textit{Star sign denotes skill level}} \normalsize\begin{itemize}
+  \item\textit{Programming and scripting}: Python*, PHP***, Javascript***, HTML/CSS***, Visual Basic**, Bash and command line scripts*, \cabin\LaTeX\cabincondensed **, R*, Mathematica*.
+  \item\textit{Database programming}: SQL*** and NoSQL** environment e.g. MySQL***, PostgreSQL*, MSSQL**, MongoDB**, Google BigQuery*, Microsoft Access***, Teradata*
+  \item Microsoft Office*** including Macro**, VB Scripting**, and Excel PivotTables***. Business Intelligence and visualisation: Microsoft BI**, Google charts**
+  \item\textit{Cloud based architecture} e.g Amazon Web Services***, Google Cloud Platform**, Office 365*. Website management and server handling**.
+
+  \end{itemize}
+
+ \end{itemize}
+\end{tabular}
+
+
+
+
+
+\vspace{0.15in}
+\begin{tabular}{L!{\VRule}R}
+\uppercase{Relevant Courseworks \HRule} &
+\begin{inparaenum}[$\circ$]
+  \item Organic chemistry
+  \item Microbiology
+  \item Genetics
+  \item Advanced molecular biology and biochemistry
+  \item Medical biotech
+  \item Environmental biotech
+  \item Commercial biotech
+  \item Professional issues in biotech
+\end{inparaenum}
+\end{tabular}
+
+
+
+
+\vspace{0.15in}
+\begin{tabular}{L!{\VRule}R}
+\uppercase{Publications \& Presentations \HRule}
+
+ &  R Sinha, T Davis, L Pearson, J Muenchhoff, \textbf{R Pratama}, A Jex, M Burford, and B Neilan.
+Comparative genomics of \textit{Cylindrospermopsis raciborskii} strains with differential toxicities. \textbf{BMC Genomics 2014} 15:83. doi:10.1186/1471-2164-15-83. Presented in: 9th International Conference on Toxic Cyanobacteria. South Africa, 2013
+
+\\
+ &  B Neilan, A Roberts, \textbf{R Pratama}, L Pearson, and J Muenchhoff.
+Engineering cyanobacteria and their toxin biosynthesis  pathways for unnatural production
+Presented in: 14th International Symposium on Phototrophic Prokaryotes. Portugal, 2012
+\\
+
+\end{tabular}
+
+\end{document}
