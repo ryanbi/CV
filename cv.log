@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.19)  22 SEP 2014 01:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.19)  2 OCT 2014 21:08
 entering extended mode
 **cv.tex
 ("G:\Files\Google Drive\Sync\CV\cv.tex"
@@ -34,7 +34,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("G:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 ("G:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
@@ -79,8 +79,8 @@ Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bdimen=\dimen112
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
 \calc@Ccount=\count92
 \calc@Cskip=\skip45
 )
@@ -119,13 +119,15 @@ Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 ("G:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+Package: xkeyval 2014/05/25 v2.7 package option processing (HA)
 
 ("G:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("G:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks17
 \XKV@tempa@toks=\toks18
+)
 \XKV@depth=\count96
-File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+File: xkeyval.tex 2014/05/25 v2.7 key=value parser (HA)
 ))
 ("G:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
@@ -212,7 +214,7 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 )
 ("G:\Program Files\MiKTeX 2.9\tex\latex\fontaxes\fontaxes.sty"
-Package: fontaxes 2011/12/16 v1.0c Font selection axes
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
@@ -228,7 +230,7 @@ LaTeX Info: Redefining \sffamily on input line 53.
 LaTeX Info: Redefining \ttfamily on input line 70.
 ))
 ("G:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 
@@ -530,16 +532,16 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 ("G:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
-Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count97
 )
 ("G:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
 
 ("G:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 137.
 
 ("G:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -594,7 +596,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box26
 \enitdp@description=\count99
 )
-No file cv.aux.
+("G:\Files\Google Drive\Sync\CV\cv.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
@@ -609,6 +611,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
+
 ("G:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -629,11 +632,11 @@ inCondensed-TLF.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
-* v-part:(T,H,B)=(0.0pt, 772.77686pt, 72.26999pt)
+* v-part:(T,H,B)=(0.0pt, 808.91185pt, 36.135pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=525.23788pt
-* \textheight=772.77686pt
+* \textheight=808.91185pt
 * \oddsidemargin=-36.135pt
 * \evensidemargin=-36.135pt
 * \topmargin=-109.26999pt
@@ -717,8 +720,12 @@ Overfull \hbox (20.164pt too wide) in paragraph at lines 66--84
 []$[]$ $[]$ $[]$ $[]$ $[]$ 
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 91.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 91.
 LaTeX Font Info:    Try loading font information for TS1+CabinCondensed-TLF on 
-input line 134.
+input line 135.
 ("G:\Program Files\MiKTeX 2.9\tex\latex\cabin\ts1cabincondensed-tlf.fd"
 File: TS1CabinCondensed-TLF.fd 2012/11/17 (autoinst) Font definitions for TS1/C
 abinCondensed-TLF.
@@ -731,24 +738,24 @@ Package microtype Info: Character `textminus ' is missing
 (microtype)             in font `TS1/CabinCondensed-TLF/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Try loading font information for T1+Cabin-TLF on input line
- 166.
+ 182.
 
 ("G:\Program Files\MiKTeX 2.9\tex\latex\cabin\t1cabin-tlf.fd"
 File: T1Cabin-TLF.fd 2012/11/17 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 166.
+(Font)              scaled to size 10.0pt on input line 182.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `Cabin-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 166.
+(Font)              scaled to size 7.0pt on input line 182.
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -759,7 +766,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -770,7 +777,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -779,7 +786,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -790,7 +797,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -801,7 +808,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -810,7 +817,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -821,7 +828,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -832,7 +839,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -843,14 +850,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -861,7 +868,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -870,7 +877,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -881,7 +888,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -892,7 +899,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -901,7 +908,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -912,7 +919,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -923,18 +930,18 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I'm forgetting what you said and using zero instead.
 
 
-! LaTeX Error: \begin{tabular} on input line 154 ended by \end{itemize}.
+! LaTeX Error: \begin{tabular} on input line 172 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -943,7 +950,7 @@ or  <return>  to continue without it.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -954,7 +961,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -965,14 +972,14 @@ my insertion and my current dilemma will both disappear.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I'm guessing that you meant to end an alignment here.
 
 ! Missing { inserted.
 <inserted text> 
                 {
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -981,7 +988,7 @@ Try to go on, since this might almost work.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -992,7 +999,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1003,7 +1010,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.173  \end{itemize}
+l.189  \end{itemize}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1014,7 +1021,7 @@ my insertion and my current dilemma will both disappear.
 ! Misplaced \crcr.
 \endarray ->\crcr 
                   \egroup \egroup \@arrayright \gdef \@preamble {}
-l.174 \end{tabular}
+l.190 \end{tabular}
                    
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1025,7 +1032,7 @@ might try typing `S' now just to see what is salvageable.
 ! Too many }'s.
 \endarray ->\crcr \egroup 
                           \egroup \@arrayright \gdef \@preamble {}
-l.174 \end{tabular}
+l.190 \end{tabular}
                    
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
@@ -1033,7 +1040,7 @@ Such booboos are generally harmless, so keep going.
 ! Too many }'s.
 \endarray ->\crcr \egroup \egroup 
                                   \@arrayright \gdef \@preamble {}
-l.174 \end{tabular}
+l.190 \end{tabular}
                    
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
@@ -1041,7 +1048,7 @@ Such booboos are generally harmless, so keep going.
 ! Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.174 \end{tabular}
+l.190 \end{tabular}
                    
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1056,7 +1063,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \end{tabular}
+l.190 \end{tabular}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1065,7 +1072,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.174 \end{tabular}
+l.190 \end{tabular}
                    
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1076,45 +1083,83 @@ my insertion and my current dilemma will both disappear.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.174 \end{tabular}
+l.190 \end{tabular}
                    
 Things are pretty mixed up, but I think the worst is over.
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--182
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=525.23788pt
+* \textheight=700.50687pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 []|\T1/CabinCondensed-TLF/m/n/10 (+20) RELEVANT
  []
 
 
 Package paralist Warning: Incorrect label; no or multiple counters.
-(paralist)                The label is: $\circ $ on input line 183.
+(paralist)                The label is: $\circ $ on input line 203.
 
-[1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("G:\Files\Google Drive\Sync\CV\cv.aux") ) 
+Package paralist Warning: Incorrect label; no or multiple counters.
+(paralist)                The label is: $\circ $ on input line 219.
+
+[2
+
+] ("G:\Files\Google Drive\Sync\CV\cv.aux") ) 
 Here is how much of TeX's memory you used:
- 6207 strings out of 493921
- 97088 string characters out of 3147270
- 265955 words of memory out of 3000000
- 9321 multiletter control sequences out of 15000+200000
- 118390 words of font info for 84 fonts, out of 3000000 for 9000
+ 6277 strings out of 493921
+ 98549 string characters out of 3147270
+ 275308 words of memory out of 3000000
+ 9360 multiletter control sequences out of 15000+200000
+ 142907 words of font info for 106 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 47i,11n,47p,331b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
-{G:/Program Files/MiKTeX 2.9/fonts/en
-c/dvips/cabin/cbn_aojlca.enc}{G:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cabin
-/cbn_xvjm53.enc}{G:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cabin/cbn_zljgjy.e
-nc} <C:\Users\starc_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\ifsym\d
-pi600\ifsym10.pk><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/Cabin
--Regular.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/CabinCond
-ensed-Bold.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/CabinCo
-ndensed-Regular.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/Ca
-binCondensed-RegularItalic.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/public/wasy/was
-y10.pfb>
-Output written on cv.pdf (1 page, 100421 bytes).
+ 47i,13n,47p,382b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
+{G:/Program Files/MiKTeX 2.9/fonts/
+enc/dvips/cabin/cbn_aojlca.enc}{G:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cab
+in/cbn_xvjm53.enc}{G:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cabin/cbn_zljgjy
+.enc} <C:\Users\starc_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\ifsym
+\dpi600\ifsym10.pk><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/Cab
+in-Regular.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/CabinCo
+ndensed-Bold.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/Cabin
+Condensed-Regular.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/impallari/cabin/
+CabinCondensed-RegularItalic.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><G:/Program Files/MiKTeX 2.9/fonts/type1/public/wasy/w
+asy10.pfb>
+Output written on cv.pdf (2 pages, 103035 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26113 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 31745 words of extra memory for PDF output out of 35830 (max. 10000000)
 
